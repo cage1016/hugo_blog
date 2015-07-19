@@ -1,0 +1,6 @@
+baseurl: 'http://cage1016.github.com/hugo_blog'
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+
+theme: 'hyde'
+...
