@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://cage1016.github.com/hugo_blog/</loc>
-    <lastmod>2015-07-19T16:37:16+08:00</lastmod>
+    <lastmod>2015-07-19T16:52:55+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cage1016.github.com/hugo_blog/posts/aaa/</loc>
+    <lastmod>2015-07-19T16:52:55+08:00</lastmod>
   </url>
   
   <url>
