@@ -7,7 +7,6 @@ Tags:
 - Development
 - golang
 date: 2015-07-19T16:52:55+08:00
-menu: main
 title: 第二篇文章
 ---
 
